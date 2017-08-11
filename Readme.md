@@ -1,6 +1,6 @@
 # IRCC: a super-simple irc client written in nim
 
-###Compilation
+### Compilation
 
 After installing the nim compiler, you can compile the client with
 ```bash
