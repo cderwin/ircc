@@ -12,5 +12,5 @@ skipExt       = @["nim"]
 
 # Dependencies
 
-requires "nim >= 0.17.0", "docopt"
+requires "nim >= 0.17.0"
 
