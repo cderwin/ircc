@@ -2,12 +2,12 @@
 
 ### Compilation
 
-After installing the nim compiler, you can compile the client with
+After installing the nim compiler and toolchain, you can compile the client with
 ```bash
-nim compile main.nim
+nimble build
 ```
 
-This produces a debug executable as `./main`.  All you have to do is run it!
+This produces a debug executable as `./bin/ircc`.  All you have to do now is run it!
 
 
 ### Credits
